@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:46.567Z",
+  "generatedAt": "2026-05-23T12:57:46.382Z",
   "resourceSlug": "timestamp-drift-signature-errors-package",
   "title": "Timestamp drift runbook + logging schema",
   "description": "On-call runbook for signature error incidents. Logging schema makes clock drift diagnostics fast. Know what to check in minutes, not hours.",
