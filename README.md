@@ -17,6 +17,14 @@ It is designed for quick implementation support, community sharing, and stable v
 
 On-call runbook for signature error incidents. Logging schema makes clock drift diagnostics fast. Know what to check in minutes, not hours.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/timestamp-drift-signature-errors.zip
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
